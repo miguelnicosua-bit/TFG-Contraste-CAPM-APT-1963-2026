@@ -184,10 +184,6 @@ Cada script ejecuta cinco tests independientes (identidades algebraicas, replica
 
 ## Asistencia de IA
 
----
-
-## Asistencia de IA
-
 El desarrollo de este repositorio ha contado con la asistencia del modelo de inteligencia artificial **Claude (Anthropic)** en tareas concretas:
 
 - Generación inicial y depuración de los scripts en Python para el análisis empírico (regresiones, test GRS, generación de figuras).
@@ -197,6 +193,7 @@ El desarrollo de este repositorio ha contado con la asistencia del modelo de int
 Todo el código ha sido posteriormente revisado, ejecutado y validado numéricamente por el autor mediante los scripts de comprobaciones (véase la sección "Validación del código"). Las decisiones metodológicas, la interpretación de los resultados, la elección de los contrastes y la estructura general del análisis son responsabilidad exclusiva del autor.
 
 ---
+
 ## Licencia
 
 Este repositorio se publica con fines exclusivamente académicos. Los datos pertenecen a sus respectivos titulares (Kenneth R. French, CRSP, COMPUSTAT).
