@@ -1,5 +1,0 @@
-Contraste,Estadístico,p-valor,Decisión al 5%
-Linealidad (beta^2),t = -4.024,0.0002,Rechaza
-Riesgo idiosincrático (sigma_eps),t = 1.945,0.0563,No rechaza
-GRS clásico (100 carteras),N/A (Σ singular),—,—
-GRS aproximado (25 carteras 5x5),F = 1.731,0.064775,No rechaza
